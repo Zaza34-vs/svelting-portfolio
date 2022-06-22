@@ -7,13 +7,19 @@
 	name = "Friend";
 </script>
 
-<main>
-
-	<Header/>
-	<Section/>
-	<Footer/>
-
-</main>
+<body>
+	<header>
+		<Header/>
+	</header>
+	
+	<section>
+		<Section/>
+	</section>
+	
+	<footer>
+		<Footer/>
+	</footer>
+</body>
 
 <style type="scss">
 	@use '../sass/main.scss';
