@@ -1,19 +1,13 @@
-$teal: #24bd75;
+$color1: #7f7fd5;
 $background: white;
 
 header {
-    color: $teal;
+    color: $color1;
     background-color: $background;
     text-transform: uppercase;
     font-size: 4em;
     font-weight: 100;
     font-size: larger;
     text-align: center;
-
-    &:hover {
-        color: $background;
-        background-color: $teal;
-        background: radial-gradient( rgba(210, 14, 14, 0.74) 0%, $teal 100%, #fff 100%);
-    }
 }
 
