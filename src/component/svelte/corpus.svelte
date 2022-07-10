@@ -1,7 +1,9 @@
 <script lang="ts"></script>
 
-<h2 class="corpus-title corpus-1">
-    Mon parcours
+<h2 class="corpus-title">
+    <p class="corpus-1">
+        Mon parcours
+    </p>
 </h2>
 
 <div class="firstDiv">

@@ -1,9 +1,10 @@
 @mixin corpusSizing ($i) {
-    @for $i from 1 through 6 {
+    @for $i from 1 through 1 {
         .corpus-#{$i} {
             width: 50px * $i;
             height: 50px * $i;
             border-radius: 50px * $i;
+            display: contents;
         }
     }
 }
