@@ -9,6 +9,13 @@
     <Corpus />
 </section>
 
+<br>
+
+<section class="secondSection">
+    <h2>My Stack</h2>
+    <Carrousel />
+</section>
+
 <style type="scss">
     @use '../sass/section.scss';
 </style>
