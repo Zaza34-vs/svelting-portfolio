@@ -1,8 +1,9 @@
 <script lang="ts">
     import Corpus from "./component/svelte/corpus.svelte";
-    import Text from "./component/svelte/text.svelte";
+    import Tools from "./component/svelte/tools.svelte";
     import Stack from "./component/svelte/stack.svelte";
     import Carrousel from "./component/svelte/carrousel.svelte";
+    import Framework from "./component/svelte/framework.svelte";
 </script>
 
 <section>
@@ -17,8 +18,17 @@
 </section>
 
 
-<section>
+<section class="thirdSection">
+    <h2 class="stackTitle">Stack Technique à apprendre</h2>
     <Stack/>
+</section>
+
+<section>
+    <Framework />
+</section>
+
+<section>
+    <Tools />
 </section>
 
 <style type="scss">

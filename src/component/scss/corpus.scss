@@ -11,7 +11,9 @@
 
 .corpus-title {
     @include corpusSizing(1);
-    text-align: center;
+    margin-left: 615px;
+    font-style: italic;
+    font-family: math;
     color: mix(#39a9db , rebeccaPurple, 45%);
 }
 
