@@ -15,6 +15,7 @@
         '../stack_tools/homepage-docker-logo.png',
         '../stack_tools/kubernetes.png',
         '../stack_tools/Logo-vagrant.png',
+        '../stack_tools/bf69b502-cycloyd.png',
         '../stack_tools/Selenium_logo.svg.png',
         '../stack_tools/TERRAFORM.png',
         '../stack_tools/unnamed.png'
