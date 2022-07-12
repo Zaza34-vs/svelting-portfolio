@@ -41,3 +41,27 @@ img {
 	margin-left: 580px;
     margin-top: 42px;
 }
+
+@media (max-width: 520px) {
+
+	.divButton {
+		margin-left: 0px;
+	}
+	
+	img {
+		position: absolute;
+	}
+	.nextButton {
+		@extend %button;
+	}
+	.prevButton {
+		margin-left: 10px;
+		position: inherit;
+		@extend %button;
+	}
+	
+	.imgCarrousel {
+		margin-top: 42px;
+	}
+	
+}

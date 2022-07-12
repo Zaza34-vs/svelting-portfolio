@@ -16,6 +16,11 @@
     <Carrousel />
 </section>
 
+
+<section>
+    <Stack/>
+</section>
+
 <style type="scss">
     @use '../sass/section.scss';
 </style>
