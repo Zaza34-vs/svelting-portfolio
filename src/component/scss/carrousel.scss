@@ -27,14 +27,14 @@ img {
     position: absolute;
 }
 .nextButton {
-    margin-left: 130px;
+    margin-left: -530px;
     position: inherit;
     @extend %button;
 }
 
 .imgCarrousel {
-	margin-left: 580px;
     margin-top: 42px;
+	left: 540px;
 }
 
 @media (max-width: 520px) {
