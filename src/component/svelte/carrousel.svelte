@@ -27,10 +27,6 @@
     const next = () => {
         index = (index + 1) % carouselPhotos.length
     }
-
-    const prev = () => {
-        index = (index - 1) % carouselPhotos.length
-    }
 </script>
 
 <style type="scss">
@@ -43,5 +39,4 @@
 
 <div class="divButton">
     <button class="nextButton" on:click={next}>Next</button>
-    <button class="prevButton" on:click={prev}>Prev</button>
 </div>

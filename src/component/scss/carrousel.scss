@@ -27,12 +27,7 @@ img {
     position: absolute;
 }
 .nextButton {
-    margin-left: 90px;
-    position: inherit;
-    @extend %button;
-}
-.prevButton {
-    margin-left: 10px;
+    margin-left: 130px;
     position: inherit;
     @extend %button;
 }
@@ -52,11 +47,6 @@ img {
 		position: absolute;
 	}
 	.nextButton {
-		@extend %button;
-	}
-	.prevButton {
-		margin-left: 10px;
-		position: inherit;
 		@extend %button;
 	}
 	
