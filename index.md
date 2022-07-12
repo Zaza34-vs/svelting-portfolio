@@ -1,31 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to My Portfolio
 
-You can use the [editor on GitHub](https://github.com/Zaza34-vs/svelting-portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I made this portfolio with Svelte Framework with Sass and TypeScript. Feel free to see the code i write to make this 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### For preview
 
-### Markdown
+You can see the details about run a svelte project in the documentation.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+All i have to do now is to make the portfolio responsive at least a little and make the repository public archived to make sure nobody, included me, will make trouble in here.
 
-```markdown
-Syntax highlighted code block
+I wish you the best and i welcome you in my word by show you my personal work.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
+Here you can see about GitHub Pages
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
